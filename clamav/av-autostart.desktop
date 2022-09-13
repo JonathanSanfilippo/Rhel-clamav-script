@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=antivirus
+GenericName=antivirus
+Exec=/home/sysadmin/.local/share/clamav/av.sh
+Type=Application
